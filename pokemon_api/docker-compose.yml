@@ -14,4 +14,4 @@ services:
         depends_on: 
             - mysql_1
         ports:
-            - "5000:5000"
+            - "5003:5003"
